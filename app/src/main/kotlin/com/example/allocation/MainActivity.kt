@@ -1,0 +1,5 @@
+package com.example.allocation
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()

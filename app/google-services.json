@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "488271554440",
+    "project_id": "allocationapp-74427",
+    "storage_bucket": "allocationapp-74427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488271554440:android:41018d4be32dcf6b9ebc3d",
+        "android_client_info": {
+          "package_name": "com.example.allocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488271554440-3j70k93hrb3jdqns4qg7cb2adbffjnqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.allocation",
+            "certificate_hash": "2539cdf3c1305415b8c0b5db79113f3052f4652b"
+          }
+        },
+        {
+          "client_id": "488271554440-npg4ggbdn46jsb9m7agk2fc61at9djc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK0Lz1JYtwMbZbY10dc4GFAnUc8CQYPpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488271554440-npg4ggbdn46jsb9m7agk2fc61at9djc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
